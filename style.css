@@ -906,4 +906,8 @@ section{
     .about .row .image img{
         height: auto;
     }
+
+    .playlist .row .col .thumb{
+        height: 20rem;
+    }
 }
